@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Taco and Grill | Contact</title>
+  <meta name="description" content="Contact Taco and Grill in Columbus, OH for phone orders and restaurant information." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="icon" type="image/svg+xml" href="assets/images/favicon.svg" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <nav class="navbar container">
+      <a class="brand" href="index.html" aria-label="Taco and Grill home">
+        <img class="brand-logo" src="assets/images/logo.png" alt="Taco and Grill logo" onerror="this.style.display='none'; this.nextElementSibling.style.display='grid';" />
+        <span class="brand-mark brand-fallback">T&G</span>
+        <span class="brand-text">
+          <strong>Taco and Grill</strong>
+          <small>Halal • Tacos & Fast Food</small>
+        </span>
+      </a>
+      <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">☰</button>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="menu.html">Menu</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a class="active" href="contact.html">Contact</a></li>
+        <li><a href="deals.html">Deals</a></li>
+        <li><a href="blogs.html">Blogs</a></li>
+        <li><a id="orderNowLink" class="btn btn-primary" href="https://www.clover.com/" target="_blank" rel="noopener">Order Now</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main class="container page-main">
+    <section class="section-head reveal-up">
+      <p class="kicker">Contact Us</p>
+      <h1>We Take Orders Over the Phone</h1>
+      <p>
+        Call us to place your order, ask about menu items, or confirm deals before pickup.
+        We are open every day from 3:00 PM to 12:00 AM.
+      </p>
+    </section>
+
+    <section class="info-cards">
+      <article class="card reveal-up">
+        <h3>Call to Order</h3>
+        <p>Fastest way to place an order is by phone.</p>
+        <p><a data-restaurant-phone-link href="tel:+13802616218"><span data-restaurant-phone>(380) 261-6218</span></a></p>
+        <a class="btn btn-primary" href="tel:+13802616218">Call to Order</a>
+      </article>
+      <article class="card reveal-up delay-1">
+        <h3>Address</h3>
+        <p data-restaurant-address>2864 N High Street, Columbus, Ohio 43202</p>
+        <p>Pickup available during business hours.</p>
+        <a class="btn btn-secondary" href="https://maps.google.com/?q=2864+N+High+Street,+Columbus,+Ohio+43202" target="_blank" rel="noopener">Open in Maps</a>
+      </article>
+      <article class="card reveal-up delay-2">
+        <h3>Hours</h3>
+        <p data-restaurant-hours>Everyday • 3:00 PM – 12:00 AM</p>
+        <p>Breakfast menu also available all day</p>
+      </article>
+    </section>
+
+    <section class="section">
+      <div class="section-head reveal-up">
+        <h2>How to Order</h2>
+        <p>Choose the easiest method for you.</p>
+      </div>
+      <div class="grid-2">
+        <article class="card reveal-up">
+          <h3>Phone Order</h3>
+          <p>
+            Call <a data-restaurant-phone-link href="tel:+13802616218"><strong data-restaurant-phone>(380) 261-6218</strong></a>,
+            tell us your items, and we will confirm your pickup time.
+          </p>
+          <p>Great for custom requests and quick questions.</p>
+        </article>
+        <article class="card reveal-up delay-1">
+          <h3>Online on Clover</h3>
+          <p>
+            Use our Clover page from the Order Now button in the navigation for a smooth online checkout.
+          </p>
+          <p>Menu on this website is for viewing only.</p>
+        </article>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-head reveal-up">
+        <h2>Quick Answers</h2>
+      </div>
+      <div class="info-cards">
+        <article class="card reveal-up">
+          <h3>Do you serve halal food?</h3>
+          <p>Yes. Taco and Grill is a halal-focused restaurant.</p>
+        </article>
+        <article class="card reveal-up delay-1">
+          <h3>Do you serve breakfast all day?</h3>
+          <p>Yes, breakfast is available all day during open hours.</p>
+        </article>
+        <article class="card reveal-up delay-2">
+          <h3>Can I order on this website?</h3>
+          <p>No. This website is view-only; order by phone or through Clover.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-main">
+      <div>
+        <h3>Taco and Grill</h3>
+        <p>Halal restaurant in Columbus serving authentic tacos, tex-mex fusion, and fast-food favorites.</p>
+      </div>
+      <div>
+        <h4>Quick Links</h4>
+        <p><a href="menu.html">Menu</a> • <a href="deals.html">Deals</a> • <a href="blogs.html">Blogs</a></p>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <p data-restaurant-address>2864 N High Street, Columbus, Ohio 43202</p>
+        <p><a data-restaurant-phone-link href="tel:+13802616218"><span data-restaurant-phone>(380) 261-6218</span></a></p>
+      </div>
+      <div>
+        <h4>Order</h4>
+        <p>Phone orders available every day, 3 PM - 12 AM.</p>
+        <a id="footerOrderLink" class="btn btn-primary" href="https://www.clover.com/" target="_blank" rel="noopener">Order Now</a>
+      </div>
+    </div>
+    <div class="container footer-bottom">
+      <p>© <span id="year"></span> Taco and Grill. All rights reserved.</p>
+      <p><strong>Halal</strong> • Tacos & Fast Food • Breakfast All Day</p>
+    </div>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+</body>
+</html>

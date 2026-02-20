@@ -1,0 +1,14 @@
+[
+  {
+    "badge": "Top Deal",
+    "title": "3 Quessabirria Tacos + Consome",
+    "description": "Get 3 Quessabirria Tacos with consome for a combo price.",
+    "validity": "$12.99"
+  },
+  {
+    "badge": "Ramadan Special",
+    "title": "$20 Off Ramadan Discount",
+    "description": "$20 off on call-in orders only.",
+    "validity": "Call-in orders only"
+  }
+]

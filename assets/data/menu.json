@@ -1,0 +1,420 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Taco & Grill Special",
+      "category": "Tacos",
+      "description": "Choice of meat served with pico de gallo, cheese, and special sauce",
+      "price": 4.5,
+      "emoji": "🌮"
+    },
+    {
+      "id": 2,
+      "name": "Birria Beef Taco",
+      "category": "Tacos",
+      "description": "Served with onions and cilantro",
+      "price": 3.5,
+      "emoji": "🌮"
+    },
+    {
+      "id": 3,
+      "name": "Beef Taco",
+      "category": "Tacos",
+      "description": "Diced fresh tuna with avocado, sesame oil, and crispy wontons",
+      "price": 3.5,
+      "emoji": "🌮"
+    },
+    {
+      "id": 4,
+      "name": "Quessabirria Taco",
+      "category": "Tacos",
+      "description": "Birria served with onions, cilantro, and cheese",
+      "price": 3.99,
+      "emoji": "🌮"
+    },
+    {
+      "id": 5,
+      "name": "Chicken Taco",
+      "category": "Tacos",
+      "description": "Served with onions and cilantro",
+      "price": 3.5,
+      "emoji": "🌮"
+    },
+    {
+      "id": 6,
+      "name": "Shrimp Taco",
+      "category": "Tacos",
+      "description": "Served with onions and cilantro",
+      "price": 3.99,
+      "emoji": "🦐"
+    },
+    {
+      "id": 7,
+      "name": "Veggie Sizzle Taco",
+      "category": "Tacos",
+      "description": "Fajita veggies, green peppers, crispy potatoes, cheese, and special sauce",
+      "price": 3.5,
+      "emoji": "🥔"
+    },
+    {
+      "id": 8,
+      "name": "Beef Supreme",
+      "category": "Tacos",
+      "description": "Tomatoes, onions, cilantro, lettuce, cheese, sour cream, and special sauce",
+      "price": 4.5,
+      "emoji": "🌮"
+    },
+    {
+      "id": 9,
+      "name": "Birria Beef Supreme",
+      "category": "Tacos",
+      "description": "Tomatoes, onions, cilantro, lettuce, cheese, sour cream, and special sauce",
+      "price": 4.5,
+      "emoji": "🌮"
+    },
+    {
+      "id": 10,
+      "name": "Chicken Supreme",
+      "category": "Tacos",
+      "description": "Tomatoes, onions, cilantro, lettuce, cheese, sour cream, and special sauce",
+      "price": 4.5,
+      "emoji": "🌮"
+    },
+    {
+      "id": 11,
+      "name": "Shrimp Supreme",
+      "category": "Tacos",
+      "description": "Tomatoes, onions, cilantro, lettuce, cheese, sour cream, and special sauce",
+      "price": 4.5,
+      "emoji": "🦐"
+    },
+    {
+      "id": 12,
+      "name": "Taco & Grill Special Tortas",
+      "category": "Sandwiches",
+      "description": "Lettuce, fajita veggies, mayo, green peppers, cheese, special sauce; meat choice: Chicken (included), Beef (+$2), Shrimp (+$3)",
+      "price": 13.99,
+      "emoji": "🥪"
+    },
+    {
+      "id": 13,
+      "name": "Birria Tortas",
+      "category": "Sandwiches",
+      "description": "Beans, lettuce, mayo, onions, tomatoes, sour cream & cheese",
+      "price": 12.99,
+      "emoji": "🥪"
+    },
+    {
+      "id": 14,
+      "name": "Chicken Tortas",
+      "category": "Sandwiches",
+      "description": "Beans, lettuce, mayo, onions, tomatoes, sour cream & cheese",
+      "price": 11.99,
+      "emoji": "🥪"
+    },
+    {
+      "id": 15,
+      "name": "Beef Tortas",
+      "category": "Sandwiches",
+      "description": "Beans, lettuce, mayo, onions, tomatoes, sour cream & cheese",
+      "price": 12.99,
+      "emoji": "🥪"
+    },
+    {
+      "id": 16,
+      "name": "Shrimp Tortas",
+      "category": "Sandwiches",
+      "description": "Beans, lettuce, mayo, onions, tomatoes, sour cream & cheese",
+      "price": 13.99,
+      "emoji": "🦐"
+    },
+    {
+      "id": 17,
+      "name": "Breakfast Tortas",
+      "category": "Sandwiches",
+      "description": "2 eggs, sausage, bacon, lettuce, mayo, onions, tomatoes, sour cream & cheese",
+      "price": 11.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 18,
+      "name": "Grilled Cheese Sandwich",
+      "category": "Sandwiches",
+      "description": "Sausage/bacon & melted cheese on toasted bread",
+      "price": 11.99,
+      "emoji": "🧀"
+    },
+    {
+      "id": 19,
+      "name": "Birria Grilled Cheese Sandwich",
+      "category": "Sandwiches",
+      "description": "Birria beef & melted cheese on toasted bread",
+      "price": 12.99,
+      "emoji": "🧀"
+    },
+    {
+      "id": 20,
+      "name": "Breakfast Sandwich",
+      "category": "Sandwiches",
+      "description": "Sausage or bacon & cheese",
+      "price": 11.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 21,
+      "name": "Cheese Quesadilla",
+      "category": "Quesadillas",
+      "description": "Monterey Jack, Colby Jack, and cheddar cheese",
+      "price": 7.5,
+      "emoji": "🧀"
+    },
+    {
+      "id": 22,
+      "name": "Chicken Quesadilla",
+      "category": "Quesadillas",
+      "description": "Chicken, cheese, tomatoes, onions, cilantro",
+      "price": 11.5,
+      "emoji": "🔥"
+    },
+    {
+      "id": 23,
+      "name": "Beef Quesadilla",
+      "category": "Quesadillas",
+      "description": "Beef, cheese, tomatoes, onions, cilantro",
+      "price": 12.5,
+      "emoji": "🔥"
+    },
+    {
+      "id": 24,
+      "name": "Birria Quesadilla",
+      "category": "Quesadillas",
+      "description": "Birria beef, cheese, tomatoes, onions, cilantro",
+      "price": 12.5,
+      "emoji": "🔥"
+    },
+    {
+      "id": 25,
+      "name": "Shrimp Quesadilla",
+      "category": "Quesadillas",
+      "description": "Shrimp, cheese, tomatoes, onions, cilantro",
+      "price": 12.99,
+      "emoji": "🦐"
+    },
+    {
+      "id": 26,
+      "name": "Veggie Sizzle Quesadilla",
+      "category": "Quesadillas",
+      "description": "Fajita veggies, green peppers, crispy potatoes, cheese, tomatoes, onions, cilantro",
+      "price": 9.99,
+      "emoji": "🥔"
+    },
+    {
+      "id": 27,
+      "name": "12 Wings",
+      "category": "Sides",
+      "description": "Crispy wings",
+      "price": 10.99,
+      "emoji": "🍗"
+    },
+    {
+      "id": 28,
+      "name": "6 Wings",
+      "category": "Sides",
+      "description": "Crispy wings",
+      "price": 6.99,
+      "emoji": "🍗"
+    },
+    {
+      "id": 29,
+      "name": "3 Tenders",
+      "category": "Sides",
+      "description": "Chicken tenders",
+      "price": 8.99,
+      "emoji": "🍗"
+    },
+    {
+      "id": 30,
+      "name": "6 Tenders",
+      "category": "Sides",
+      "description": "Chicken tenders",
+      "price": 12.99,
+      "emoji": "🍗"
+    },
+    {
+      "id": 31,
+      "name": "Fries",
+      "category": "Sides",
+      "description": "Crispy fries",
+      "price": 3.99,
+      "emoji": "🍟"
+    },
+    {
+      "id": 32,
+      "name": "Onion Rings",
+      "category": "Sides",
+      "description": "Crispy onion rings",
+      "price": 4.99,
+      "emoji": "🧅"
+    },
+    {
+      "id": 33,
+      "name": "Fajita Omelet",
+      "category": "Omelets",
+      "description": "3 eggs, cheese, fajita veggies, green peppers, home fries & toast",
+      "price": 11.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 34,
+      "name": "Veggie Omelet",
+      "category": "Omelets",
+      "description": "3 eggs, cheese, tomatoes, onions, green peppers, home fries & toast",
+      "price": 10.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 35,
+      "name": "Meat Lovers Omelet",
+      "category": "Omelets",
+      "description": "3 eggs, cheese, sausage, bacon, home fries & toast",
+      "price": 12.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 36,
+      "name": "Chicken Fajita Omelet",
+      "category": "Omelets",
+      "description": "3 eggs, cheese, chicken, fajita veggies, home fries & toast",
+      "price": 13.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 37,
+      "name": "Birria Omelet",
+      "category": "Omelets",
+      "description": "3 eggs, cheese, birria beef, onions, tomatoes, home fries & toast",
+      "price": 13.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 38,
+      "name": "Cheese Omelet",
+      "category": "Omelets",
+      "description": "3 eggs, melted cheese, home fries & toast",
+      "price": 10.99,
+      "emoji": "🧀"
+    },
+    {
+      "id": 39,
+      "name": "Taco & Grill Special Breakfast",
+      "category": "Breakfast",
+      "description": "Eggs, sausage, bacon, home fries, toast + pancakes or french toast",
+      "price": 11.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 40,
+      "name": "Rise n Shine",
+      "category": "Breakfast",
+      "description": "Eggs, sausage, bacon, home fries & texas toast",
+      "price": 11.5,
+      "emoji": "🌅"
+    },
+    {
+      "id": 41,
+      "name": "Buckeye French Runner",
+      "category": "Breakfast",
+      "description": "Eggs, sausage & french toast",
+      "price": 12.5,
+      "emoji": "🍞"
+    },
+    {
+      "id": 42,
+      "name": "Pancake Special",
+      "category": "Breakfast",
+      "description": "Eggs, sausage & fluffy pancakes",
+      "price": 11.99,
+      "emoji": "🥞"
+    },
+    {
+      "id": 43,
+      "name": "Birria Burrito",
+      "category": "Burritos",
+      "description": "Rice, beans, lettuce, pico de gallo, sour cream & cheese",
+      "price": 11.99,
+      "emoji": "🌯"
+    },
+    {
+      "id": 44,
+      "name": "Chicken Burrito",
+      "category": "Burritos",
+      "description": "Rice, beans, lettuce, pico de gallo, sour cream, special sauce & cheese",
+      "price": 11.5,
+      "emoji": "🌯"
+    },
+    {
+      "id": 45,
+      "name": "Shrimp Burrito",
+      "category": "Burritos",
+      "description": "Rice, beans, lettuce, pico de gallo, sour cream, special sauce & cheese",
+      "price": 12.5,
+      "emoji": "🦐"
+    },
+    {
+      "id": 46,
+      "name": "Beef Burrito",
+      "category": "Burritos",
+      "description": "Rice, beans, lettuce, pico de gallo, sour cream & cheese",
+      "price": 11.99,
+      "emoji": "🌯"
+    },
+    {
+      "id": 47,
+      "name": "Veggie Sizzle Burrito",
+      "category": "Burritos",
+      "description": "Rice, beans, fajita veggies, crispy potatoes, pico de gallo, sour cream & cheese",
+      "price": 10.99,
+      "emoji": "🥔"
+    },
+    {
+      "id": 48,
+      "name": "Breakfast Burrito",
+      "category": "Burritos",
+      "description": "Eggs, crispy potatoes, lettuce, tomatoes, onions, special sauce & cheese",
+      "price": 9.99,
+      "emoji": "🍳"
+    },
+    {
+      "id": 49,
+      "name": "Water Bottle",
+      "category": "Drinks",
+      "description": "Bottled water",
+      "price": 1.99,
+      "emoji": "💧"
+    },
+    {
+      "id": 50,
+      "name": "Soda Can",
+      "category": "Drinks",
+      "description": "Assorted canned soda",
+      "price": 2.5,
+      "emoji": "🥤"
+    },
+    {
+      "id": 51,
+      "name": "Jarritos",
+      "category": "Drinks",
+      "description": "Mexican soda (assorted flavors)",
+      "price": 3.5,
+      "emoji": "🧃"
+    },
+    {
+      "id": 52,
+      "name": "Juice",
+      "category": "Drinks",
+      "description": "Assorted juice",
+      "price": 3.99,
+      "emoji": "🧃"
+    }
+  ]
+}
